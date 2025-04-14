@@ -16,3 +16,7 @@ input 4: 310~325
 v45: 0.30m
 
 v48: 0.25m
+
+v49: 0.3m + deviation_whirl
+
+v50: 0.25m + deviation_whirl
