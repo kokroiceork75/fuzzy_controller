@@ -20,3 +20,5 @@ v48: 0.25m
 v49: 0.3m + deviation_whirl
 
 v50: 0.25m + deviation_whirl
+
+v52: 0.3m + lidar difference(5 input)
